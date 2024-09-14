@@ -46,13 +46,16 @@ If you prefer to run the backend locally without Docker, you can clone the backe
 
    The backend should now be running at [http://localhost:3000](http://localhost:3000).
 
+4. **Login User**
+   You can use this user: `admin@mail.com` with password: `password123` to test the application
+
 ## Available Scripts
 
 In the project directory, you can run the following scripts:
 
 ### `yarn start`
 
-Starts the application in development mode.Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Starts the application in development mode.Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 The app will automatically reload if you make changes to the source files, and you will see any lint errors in the console.
 
